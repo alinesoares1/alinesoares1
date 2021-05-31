@@ -1,8 +1,8 @@
 # Hello 👋
 
-My name is Aline Soares. I have a bachelor's degree in electrical telecommunications engineering and a master's degree in computer engineering. I am currently improving my skills in Artificial Intelligence and Data Science.
+My name is Aline Soares. I am an electrical telecommunications engineer and a master of computer engineering. I am currently specializing in cloud computing and improving my skills in Artificial Intelligence and Data Science.
 
-I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.
+I am driven to face new challenges and learn. For me: "it's always day one."
 
 - 📍 From Pernambuco, BR
 - 💻 Resident in the postgraduate course in Cloud Computing at [UPE](http://posgraduacao.poli.br/)
