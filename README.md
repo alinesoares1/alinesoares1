@@ -6,7 +6,7 @@ I am driven to face new challenges and learn. For me: "it's always day one."
 
 - 📍 From Pernambuco, BR
 - 💻 Resident in the postgraduate course in Cloud Computing at [UPE](http://posgraduacao.poli.br/)
-- 👩‍🔬 IA R&D at [Di2win](http://www.di2win.com/) 
+- 👩‍🔬 Data Scientist at [C6 Bank](https://www.c6bank.com.br/)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
