@@ -6,7 +6,7 @@ I am driven to face new challenges and learn. For me: "it's always day one."
 
 - 📍 From Pernambuco, BR
 - 💻 Resident in the postgraduate course in Cloud Computing at [UPE](http://posgraduacao.poli.br/)
-- 👩‍🔬 Senior Data Scientist at [Heineken Brazil(https://www.heinekenbrasil.com.br/)]
+- 👩‍🔬 Senior Data Scientist at [Heineken Brazil](https://www.heinekenbrasil.com.br/)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
